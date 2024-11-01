@@ -1,4 +1,5 @@
 # dahua_hasSubsystem_fileupload
+product: 大华智慧园区综合管理平台
 
 ```
 POST /emap/devicePoint_addImgIco?hasSubsystem=true HTTP/1.1
